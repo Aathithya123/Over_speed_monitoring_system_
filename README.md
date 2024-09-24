@@ -12,4 +12,3 @@ COMPONENTS USED
 2) UltraSonic sensor HC-SR04
 3) LCD-Display 16x2
 4) I2C module
-5) 5) 
